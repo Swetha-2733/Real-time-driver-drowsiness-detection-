@@ -75,17 +75,3 @@ The drowsiness detection system operates by:
 3. **Analyzing Patterns**: If the EAR falls below a certain threshold for a sustained period, the system interprets this as a sign of drowsiness.
 4. **Triggering an Alert**: When drowsiness is detected, an alert is activated to warn the driver.
 
-## Future Enhancements
-
-- **Head Position Monitoring**: Add functionality to monitor head position and detect signs of head-nodding.
-- **Mobile Deployment**: Adapt the system to work on mobile devices for easier integration with vehicles.
-- **Enhanced Accuracy**: Use more sophisticated algorithms like deep learning models to improve detection accuracy.
-- **Environmental Adaptability**: Improve the model to work well under various lighting conditions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace `yourusername` with your GitHub username, and feel free to customize sections to fit your specific project setup or structure! Let me know if you'd like any further details included.
